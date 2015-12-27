@@ -3,4 +3,4 @@ Activité Partie 2 : Partager un repository sur GitHub
 
 L'URL de mon repository :
 
-https://github.com/Joeblack06/TEST-GIT.git
+https://github.com/Joeblack06/TEST-GIT/
